@@ -10,6 +10,8 @@ We reviewed topics like:
 
 - [x] Mocha Structure
 - [x] First Test: Async/Await first commands
+- [x] allure-reporter integrated
+- [x] selenium-standalone-service 
  
 - ## 💻 Pre-requisites
 
