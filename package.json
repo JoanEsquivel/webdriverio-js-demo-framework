@@ -3,6 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "devDependencies": {
+        "@wdio/allure-reporter": "^7.16.11",
         "@wdio/cli": "^7.16.12",
         "@wdio/firefox-profile-service": "^7.16.11",
         "@wdio/local-runner": "^7.16.12",
